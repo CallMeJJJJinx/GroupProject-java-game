@@ -1,2 +1,2 @@
-# GroupProject-java-game
+java-game
 java game
